@@ -5,4 +5,4 @@ Also hosted on Open Science Framework: https://osf.io/g38v7/
 
 Paper available at: https://www.sciencedirect.com/science/article/abs/pii/S0165032722007509
 
-Only analysis script are included in this repository.
+Only analysis scripts and aggregated data are included in this repository.
